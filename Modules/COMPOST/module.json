@@ -1,0 +1,13 @@
+{
+    "name": "COMPOST",
+    "alias": "compost",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\COMPOST\\Providers\\COMPOSTServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
